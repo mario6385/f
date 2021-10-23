@@ -31,7 +31,7 @@ The Medic is a Crewmate who can give 1 player a shield that will make them immor
 
 -----------------------
 ## Sheriff
-### **Team: Crewmates**
+### **Team: Crewmate**
 The Sheriff is a Crewmate who can kill the Impostors. However, if they kill a Crewmate or a Neutral player they can't kill, they instead die themselves.
 
 ### Game Options
@@ -49,7 +49,7 @@ The Sheriff is a Crewmate who can kill the Impostors. However, if they kill a Cr
 
 -----------------------
 ## Engineer
-### **Team: Crewmates**
+### **Team: Crewmate**
 The Engineer is a Crewmate who can fix sabotages easily, and fix sabotages in anywhere. They can use vents to get across the map easily.
 
 ### Game Options
